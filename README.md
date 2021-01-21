@@ -34,4 +34,6 @@ Después de ejecutarlo, el sistema se encarga de obtener las imágenes y aplicar
 
 Aquí se ven unas capturas de la infraestructura en marcha:
 
-![Imagen de demostracion](/capturas/demostracion_1.png)
+![Imagen de demostracion 1](/capturas/demostracion_1.png)
+
+![Imagen de demostracion 1](/capturas/demostracion_2.png)
